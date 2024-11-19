@@ -6,7 +6,7 @@ const Footer = () => {
     <div className={styles.footer}>
       <div className={styles.copyright}>
         <p>
-          © 2024 Vishal Shrivatava, Indian Institute of Technology (ISM), Dhanbad.
+          © 2024 Vishal Shrivastava, Indian Institute of Technology (ISM), Dhanbad.
         </p>
       </div>
     </div>
